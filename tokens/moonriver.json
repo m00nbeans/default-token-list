@@ -126,5 +126,13 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png"
+  },
+  {
+    "name": "MoonBeans",
+    "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+    "symbol": "BEANS",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/m00nbeans/images/main/moonbeans.png"
   }
 ]
